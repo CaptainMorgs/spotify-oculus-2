@@ -4,6 +4,19 @@
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
+/packages/
+/Assets/TextMesh Pro/
+/Assets/QuickSave/
+/Assets/OVR/
+/Assets/OVRAudioManager/
+/Assets/OVRAvatar/
+/Assets/OSPNative/
+/Assets/OculusPlatform/
+/Assets/Hologram/
+/Assets/Furniture_ges1/
+/Assets/EffectExamples/
+/Assets/_MK/
+/Assets/Me/Scenes/SpotifyOculus
 
 # Visual Studio 2015 cache directory
 /.vs/
